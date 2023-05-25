@@ -49,3 +49,12 @@
 .App .lista-items li + li {
   margin-top: 7px;
 }
+
+.item-lista {
+  display: flex;
+}
+
+.form-container {
+  display: flex;
+  flex-direction: column;
+}
